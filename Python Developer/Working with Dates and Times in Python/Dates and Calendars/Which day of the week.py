@@ -1,9 +1,9 @@
-#1/3
+# 1/3
 # Import date from datetime
 from datetime import date
 
 
-#2/3
+# 2/3
 # Import date from datetime
 from datetime import date
 
@@ -11,8 +11,7 @@ from datetime import date
 hurricane_andrew = date(1992, 8, 24)
 
 
-
-#3/3
+# 3/3
 # Import date from datetime
 from datetime import date
 
